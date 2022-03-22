@@ -20,7 +20,7 @@ Link to Kaggle Data: https://www.kaggle.com/code/dijorajsenroy/natural-disasters
 
 'DS340W-ParentPaperCode.ipynb' - This .ipynb file is the code that will run the full exploratory data analysis and produce the heat map that shows a breakdown of the results from the data analysis. 
 
-* Code was altered from original source. *
+-- Code was altered from original source. --
 * Removed unneeded data queries.
 * Changed data input method to get data from Google Drive and not directly from Kaggle webpage.
 
