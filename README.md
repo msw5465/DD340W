@@ -20,6 +20,10 @@ Link to Kaggle Data: https://www.kaggle.com/code/dijorajsenroy/natural-disasters
 
 'DS340W-ParentPaperCode.ipynb' - This .ipynb file is the code that will run the full exploratory data analysis and produce the heat map that shows a breakdown of the results from the data analysis. 
 
+* Code was altered from original source. *
+* Removed unneeded data queries.
+* Changed data input method to get data from Google Drive and not directly from Kaggle webpage.
+
 Link to Kaggle Code: https://www.kaggle.com/code/dijorajsenroy/natural-disasters-basic-eda-and-visualisation/notebook 
 
 The heatmap from this code is showing similar results to what we see in my parent paper (which will be linked below). This parent paper focuses more on detecting natural disasters, while the code in this repository focuses on a breakdown of already occurred natural disasters, thus complimenting each other in content.
