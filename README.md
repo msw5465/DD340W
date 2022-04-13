@@ -29,3 +29,8 @@ Link to Kaggle Code: https://www.kaggle.com/code/dijorajsenroy/natural-disasters
 The heatmap from this code is showing similar results to what we see in my parent paper (which will be linked below). This parent paper focuses more on detecting natural disasters, while the code in this repository focuses on a breakdown of already occurred natural disasters, thus complimenting each other in content.
 
 Link to Original Parent Paper: https://paperswithcode.com/paper/detecting-natural-disasters-damage-and 
+
+'DS340W-ModifiedCode.ipynb' - Altered code file that deletes unneeded data observations, cleans up code, adds comments, and adds full time series analysis as well as full machine learning analysis for predicting the frequency of natural disasters in specific disaster prone areas in the United States.
+
+'DS340W-FinalCode.ipynb' - Final code file, cleaned up version of modified code file, submitted alongside the final report and presentation.
+
